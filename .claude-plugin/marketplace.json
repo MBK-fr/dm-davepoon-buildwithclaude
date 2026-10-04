@@ -2770,6 +2770,28 @@
       ],
       "category": "mcp-servers",
       "source": "./plugins/midpoint-card-prices"
+    },
+    {
+      "name": "darkmoon",
+      "description": "Drive a self-hosted Darkmoon Pro instance from Claude Code: start an autonomous AI pentest run against an authorized target, poll its status, list campaigns and read findings. Requires your own Darkmoon Pro dashboard; the open source Darkmoon CLI alone is not enough.",
+      "version": "0.1.0",
+      "author": {
+        "name": "ASC-IT",
+        "url": "https://github.com/ASCIT31"
+      },
+      "homepage": "https://github.com/ASCIT31/Dark-Moon",
+      "repository": "https://github.com/ASCIT31/darkmoon-mcp-server",
+      "license": "GPL-3.0-only",
+      "keywords": [
+        "mcp",
+        "pentest",
+        "security",
+        "vulnerability-scanner",
+        "ai-agent",
+        "darkmoon"
+      ],
+      "category": "security",
+      "source": "./plugins/darkmoon"
     }
   ]
 }
